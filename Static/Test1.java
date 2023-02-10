@@ -4,6 +4,7 @@ public class Test1 {
     // static method can only call the static data members not conrete data members
     int i = 10;
     static void display(){
+        // we can't use this and super keyword in static context.
         System.out.println("1");
         // print(); // static method only call the static method in the program 
     }
