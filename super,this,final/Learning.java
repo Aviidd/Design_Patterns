@@ -8,6 +8,8 @@ public class Learning {
 }
 class A{  
     //parent class
+    super();
+    this();
     int a = 10;
 }
 
