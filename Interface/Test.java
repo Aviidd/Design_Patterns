@@ -24,7 +24,7 @@ class Prashant implements Test{
 
     public static void main(String [] args){
         Prashant p = new Prashant();
-        p.print(); 
+//        p.print();
         Test.display();
         p.show();
     }
